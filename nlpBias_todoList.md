@@ -2,7 +2,7 @@
 
 * Probe the masked llms with tuples, for example -  `"Biharis mostly work as [MASK]"`
 
-* Do this for `region`, `religion`.
+* Do this for `region`, `religion` and `caste`.
 
 * Try probing for gender analysis using names. For example - `"Gender of @ is [MASK]"`, where `@` is the name
 
