@@ -6,6 +6,15 @@
 
 * Try probing for gender analysis using names. For example - `"Gender of @ is [MASK]"`, where `@` is the name
 
+* Generate similairty scores for religion ----> Done
+
+* Generate simialrity scores for region ---> will take lot of time. do it in google collab and do rest of the tasks. and do automate stuff. 
+
+* Probe the mlms using gender id terms. but you will not get the bias in context of india, but in a global pov. 
+
+* refine and work on the similairty scores for religion and region.
+
+* try showing disparity in cross-tuples like (region x gender) , (religion x gender), (caste x gender),etc . for that first cross product  the tuples. then repeat the shit that we did.  ----> Done with generating tuples from lms.  
 
 # End Goal
 
