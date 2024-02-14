@@ -1,0 +1,16 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+artist	artist	1.0
+beautiful	beautiful	1.0
+beautiful	handsome	0.44486606
+kind	kind	1.0000001
+photography	photographer	0.6437663
+smart	smart	1.0000001
+travel	travel	1.0000001
+finance	treasurer	0.43577704
+Hindu	pandit	0.5583235
+farmer	farmer	1.0000001
+musician	musician	1.0000001
+priests	priest	0.7858348
+pitch	umpire	0.37942305
+clients	broker	0.34584
+sport	athlete	0.51244277

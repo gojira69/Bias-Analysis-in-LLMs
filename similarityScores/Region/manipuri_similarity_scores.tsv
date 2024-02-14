@@ -1,0 +1,10 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+art	art	1.0000001
+dance	dance	1.0000002
+farmers	farmer	0.768983
+fighters	boxer	0.51208895
+sports	athlete	0.47765523
+poor	poor	1.0
+thin	thin	1.0
+safe	calm	0.38019657
+cooking	cook	0.7584656

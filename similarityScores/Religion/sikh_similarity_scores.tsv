@@ -34,11 +34,8 @@ science	science	1.0
 minister	minister	1.0
 beautiful	beautiful	1.0
 occupation	oppressive	0.43443096
-smart	mover	0.26941496
-Dr	ceo	0.3342542
 photography	illustrator	0.45618656
 cop	policeman	0.65745634
-mathematics	humanities	0.6291098
 fighters	boxer	0.51208895
 court	judge	0.6972731
 chemical	chemist	0.4955343
@@ -82,5 +79,4 @@ politicians	politician	0.61956024
 politics	politics	1.0
 educated	educated	1.0000001
 strong	strong	1.0
-man	golfer	0.34899053
 householder	gardener	0.40287364

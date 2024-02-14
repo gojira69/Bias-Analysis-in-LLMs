@@ -1,0 +1,21 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+business	business	1.0000001
+actor	comedian	0.59819597
+poor	poor	1.0
+specific	tailor	0.42258048
+players	umpire	0.29414907
+strong	strong	1.0
+history	history	1.0000001
+teacher	teacher	1.0000001
+accident	driver	0.3969291
+farmer	farmer	1.0000001
+dance	dance	1.0000002
+poet	journalist	0.48346788
+poet	writer	0.52253425
+violence	violent	0.62438154
+prof	professor	0.6697684
+book	author	0.540513
+poet	poet	1.0
+poet	historian	0.5555783
+musicians	musician	0.70694643
+man	rapist	0.46140695

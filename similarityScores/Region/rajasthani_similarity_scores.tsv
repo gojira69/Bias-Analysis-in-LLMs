@@ -1,0 +1,26 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+engineer	accountant	0.46418726
+beautiful	beautiful	1.0
+dance	dance	1.0000002
+finance	finance	1.0
+history	history	1.0000001
+soldiers	soldier	0.7634839
+cuisine	spicy	0.55230427
+music	music	1.0000001
+art	art	1.0000001
+rich	rich	1.0000001
+smart	smart	1.0000001
+kind	kind	1.0000001
+business	business	1.0000001
+musician	singer	0.7350086
+architect	designer	0.5014387
+artist	artist	1.0
+educated	educated	1.0000001
+secretary	treasurer	0.5465567
+cooking	cook	0.7584656
+dance	dancer	0.6916879
+musician	musician	1.0000001
+police	policeman	0.60997623
+veg	vegetarian	0.5158845
+clerk	cashier	0.69709814
+mathematics	humanities	0.6291098

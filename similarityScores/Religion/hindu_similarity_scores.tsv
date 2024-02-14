@@ -17,7 +17,6 @@ university	academic	0.63171995
 eating	vegan	0.43172073
 officers	firefighter	0.4515909
 finance	auditor	0.36788353
-Vishnu	washerman	0.51575816
 workers	electrician	0.3863099
 players	golfer	0.37875226
 research	analyst	0.32658938
@@ -52,7 +51,6 @@ rich	rich	1.0000001
 Technology	technology	0.5899151
 family	caring	0.3965218
 chief	director	0.56674397
-pal	comedian	0.3848903
 chief	commander	0.49479878
 bank	broker	0.33610126
 teachers	teacher	0.7434304
@@ -70,7 +68,6 @@ office	clerk	0.35070068
 court	lawyer	0.42873257
 active	aggressive	0.42134055
 History	historian	0.45058358
-priest	carpenter	0.38178104
 painting	illustrator	0.45131633
 finance	accountant	0.34921458
 music	musician	0.56207716

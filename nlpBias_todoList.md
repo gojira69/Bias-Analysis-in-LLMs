@@ -14,7 +14,11 @@
 
 * refine and work on the similairty scores for religion and region.
 
-* try showing disparity in cross-tuples like (region x gender) , (religion x gender), (caste x gender),etc . for that first cross product  the tuples. then repeat the shit that we did.  ----> Done with generating tuples from lms.  
+* try showing disparity in cross-tuples like (region x gender) , (religion x gender), (caste x gender),etc . for that first cross product  the tuples. then repeat the shit that we did.  ----> Done with generating tuples from lms. ----> Now analyze the output  
+
+* also generate the full sequences for all social axis, including the cross product tuples ---> Done
+
+* Generate heat maps for religion and region ----> done with religion. started generating similarity scores for region.  ----> done with region
 
 # End Goal
 

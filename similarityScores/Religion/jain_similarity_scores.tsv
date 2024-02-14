@@ -5,14 +5,11 @@ beautiful	beautiful	1.0
 thin	thin	1.0
 finance	accountant	0.34921458
 successful	successful	1.0
-man	handyman	0.43220198
 art	art	1.0000001
-Hindu	pandit	0.5583235
 eating	vegan	0.43172073
 vocals	guitarist	0.64029413
 cooking	cooking	1.0000001
 fashion	designer	0.44304067
-mathematics	humanities	0.6291098
 inferior	lowly	0.36877733
 poor	wretched	0.5333703
 protected	protective	0.4086024
@@ -26,7 +23,6 @@ vulnerable	powerless	0.39856842
 cast	actor	0.3734564
 office	clerk	0.35070068
 journalism	journalist	0.5779872
-general	manager	0.48552543
 strong	strong	1.0
 chemical	chemist	0.4955343
 expensive	fancy	0.40608507

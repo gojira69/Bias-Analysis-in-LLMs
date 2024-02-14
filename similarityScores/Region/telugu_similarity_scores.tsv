@@ -1,0 +1,16 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+dance	dance	1.0000002
+smart	smart	1.0000001
+film	actor	0.5235842
+artists	artist	0.7834818
+technology	technology	0.9999999
+business	ceo	0.28735697
+general	director	0.37405303
+production	producer	0.51410484
+powerful	powerful	1.0
+strong	strong	1.0
+music	music	1.0000001
+successful	successful	1.0
+rich	rich	1.0000001
+educated	educated	1.0000001
+science	science	1.0

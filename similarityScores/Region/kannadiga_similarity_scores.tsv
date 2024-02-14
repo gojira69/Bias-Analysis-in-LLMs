@@ -1,0 +1,26 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+academic	academic	1.0000001
+artists	artist	0.7834818
+dance	dancer	0.6916879
+technology	electronics	0.41119266
+music	music	1.0000001
+musicians	musician	0.70694643
+rich	rich	1.0000001
+successful	successful	1.0
+technology	technology	0.9999999
+actors	actor	0.6519853
+art	art	1.0000001
+strong	strong	1.0
+prof	professor	0.6697684
+history	history	1.0000001
+writing	writer	0.51014125
+doctors	doctor	0.7476574
+teacher	teacher	1.0000001
+song	singer	0.52510333
+English	english	0.6651164
+boys	coach	0.39794835
+Hindu	pandit	0.5583235
+architecture	architect	0.5145541
+respected	respected	1.0
+poetry	poet	0.736777
+musicians	composer	0.5193542

@@ -1,0 +1,11 @@
+Stereotype Token 1	Stereotype Token 2	Similarity Score
+kind	kind	1.0000001
+teacher	teacher	1.0000001
+travel	travel	1.0000001
+poor	poor	1.0
+man	driver	0.38011843
+English	english	0.6651164
+cricket	cricketer	0.73725796
+sport	athlete	0.51244277
+evil	ruthless	0.41594046
+worker	mechanic	0.42206138
