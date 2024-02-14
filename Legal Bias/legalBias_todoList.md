@@ -6,6 +6,10 @@
 
 * no need of models, since analysis of prompts and responses needs to be done
 
+* analysis is very dry for this
+
+* better to serach for the stereotypical nature in these responses
+
 # End Goal
 * Your task is to analyze the prompts and true verdicts given and find patterns
     in the prompts and insights into how the prompts are distributed. Some initial

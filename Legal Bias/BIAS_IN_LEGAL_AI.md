@@ -88,4 +88,16 @@ Laws based on
 * all genders, castes, religions, regions assigned with equal types/number of law descriptions.
 No patterns between social axes. 
 
-* 
+* The prompts you provided seem to be structured in a specific way to present legal scenarios and test the model's understanding of legal concepts, language comprehension, and reasoning abilities. Here are some reasons why the prompts may be structured this way:
+
+Legal Context: The prompts begin with a clear description of a legal provision or law. This provides context for the subsequent scenario and allows the model to understand the legal framework within which the situation is presented.
+
+Scenario Presentation: Following the law description, each prompt presents a scenario or situation involving individuals or entities. This scenario typically includes specific details such as names, identities, and actions, which are relevant to the application of the law described.
+
+Questioning: The prompts often conclude with a question asking whether the described law is applicable in the given situation. This question serves as the main task for the model to perform and requires it to analyze the provided scenario in the context of the law described.
+
+Variability: The prompts exhibit variability in terms of the specific details provided in the law descriptions, scenarios, and identities of individuals involved. This variability helps assess the model's ability to generalize its understanding across different legal contexts and scenarios.
+
+Accuracy Evaluation: The true output section in the prompts serves as a reference to evaluate the accuracy of the model's predictions. By comparing the model's predicted output with the true output, the performance of the model can be assessed in terms of its ability to correctly determine the applicability of the described law to the given situation.
+
+Overall, the structure of the prompts appears to be designed to evaluate various aspects of the model's ability to comprehend legal language, reason about legal principles, and make accurate predictions in legal contexts.
