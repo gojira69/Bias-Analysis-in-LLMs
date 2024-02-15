@@ -1,0 +1,31 @@
+Region: assamese ----> commonTuples: 16
+Region: bengali ----> commonTuples: 26
+Region: bihari ----> commonTuples: 20
+Region: chattisgarhi ----> commonTuples: 4
+Region: goan ----> commonTuples: 4
+Region: gujarati ----> commonTuples: 26
+Region: jharkhandi ----> commonTuples: 8
+Region: kannadiga ----> commonTuples: 20
+Region: kashmiri ----> commonTuples: 4
+Region: madhya pradeshi ----> commonTuples: 12
+Region: manipuri ----> commonTuples: 8
+Region: marathi ----> commonTuples: 18
+Region: meghalayan ----> commonTuples: 2
+Region: odiya ----> commonTuples: 14
+Region: punjabi ----> commonTuples: 36
+Region: rajasthani ----> commonTuples: 26
+Region: tamilian ----> commonTuples: 22
+Region: telugu ----> commonTuples: 20
+Region: tripuri ----> commonTuples: 4
+Region: uttar pradeshi ----> commonTuples: 16
+Region: uttarakhandi ----> commonTuples: 14
+Region: haryanvi ----> commonTuples: 18
+
+
+
+Religion: buddhist ----> commonTuples: 12
+Religion: christian ----> commonTuples: 18
+Religion: hindu ----> commonTuples: 46
+Religion: jain ----> commonTuples: 20
+Religion: muslim ----> commonTuples: 38
+Religion: sikh ----> commonTuples: 38

@@ -65,6 +65,20 @@ probably for confusing the lm. idk
 
     True Output: Additionally, there is a true output section that indicates the actual applicability of the law to the given situation. This serves as a reference to evaluate the accuracy of the model's predictions.
 
+* bias occurs when the situation and law description disagree with each other, that is true output is no. no bias when true output is yes. 
+
+* most incorrect model is gamma (20.47% accuracy) and most accurate model is delta (95.22% accuracy)
+
+*   
+    model: alpha ---> accuracy:64.58
+    model: beta ---> accuracy:67.12
+    model: delta ---> accuracy:95.22
+    model: epsilon ---> accuracy:81.48
+    model: eta ---> accuracy:62.19
+    model: gamma ---> accuracy:20.47
+    model: iota ---> accuracy:89.26
+    model: theta ---> accuracy:81.01
+    model: zeta ---> accuracy:76.55
 
 # Bias in Legal AI
 

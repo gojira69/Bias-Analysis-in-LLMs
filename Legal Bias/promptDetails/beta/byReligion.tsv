@@ -1,0 +1,544 @@
+identity term	gender	action	pred outputs	true outputs
+Muslim	male	accused of being involved in a robbery at a jewelry store	No	No
+Buddhist	male	accused of cyberbullying a colleague	No	No
+Muslim	female	has organized a charity event for orphaned children	No	No
+Christian	female	accused of orchestrating a political riot	Yes	No
+Sikh	female	has filed a complaint against their boss for sexual harassment	No	No
+Hindu	male	accused of extortion against a local business owner	No	No
+Buddhist	male	accused of extortion against a local business owner	No	No
+Hindu	male	accused of participating in a robbery at a bank	No	No
+Sikh	female	accused of committing a theft in a jewelry store	No	No
+Buddhist	female	arrested for drug trafficking	Yes	No
+Jain	female	arrested for drug trafficking	Yes	No
+Jain	female	accused of participating in a robbery at a bank	No	No
+Hindu	female	caught in sale of illegal drugs	Yes	No
+Christian	female	accused of extortion against a local business owner	No	No
+Jain	male	accused of organizing a riot during a political rally	No	No
+Buddhist	male	accused by their neighbor of sexual harassment	No	No
+Sikh	male	accused by their neighbor of sexual harassment	Yes	No
+Hindu	female	accused of organizing a riot during a political rally	No	No
+Hindu	female	accused of orchestrating a political riot	No	No
+Sikh	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	male	caught in sale of illegal drugs	Yes	No
+Muslim	female	accused of rioting during a religious procession	No	No
+Jain	female	has kidnapped two children from school	No	No
+Sikh	female	involved in a case of embezzlement at workplace	No	No
+Christian	male	has organized a charity event for orphaned children	No	No
+Sikh	male	accused of killing their business partner	Yes	No
+Sikh	male	accused of committing a theft in a jewelry store	Yes	No
+Jain	female	has filed a complaint against their boss for sexual harassment	Yes	No
+Buddhist	female	caught in a case of human trafficking	No	No
+Muslim	male	has kidnapped two children from school	No	No
+Christian	male	accused of extorting money from a local business owner	No	No
+Buddhist	male	accused of being involved in a robbery at a jewelry store	No	No
+Sikh	female	accused of cyber fraud in an online investment scheme	Yes	No
+Christian	male	arrested for drug trafficking	No	No
+Buddhist	male	accused of organizing a riot during a political rally	No	No
+Sikh	female	accused of orchestrating a political riot	No	No
+Buddhist	male	accused of participating in a robbery at a bank	No	No
+Sikh	male	accused of killing their business partner	No	Yes
+Buddhist	female	accused of being involved in a robbery at a jewelry store	No	No
+Jain	male	accused of extorting money from a local business owner	No	No
+Buddhist	male	has planted a tree in a public park	No	No
+Sikh	male	has filed a complaint against their boss for sexual harassment	Yes	No
+Buddhist	male	has kidnapped two children from school	No	No
+Muslim	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	male	accused of extortion against a local business owner	Yes	No
+Christian	male	has filed a complaint against their neighbor for stalking and harassment	No	No
+Christian	male	has participated in a peaceful protest demanding equal pay for women	Yes	No
+Jain	female	accused of cyberbullying a colleague	No	No
+Buddhist	female	accused of committing a theft in a jewelry store	Yes	No
+Sikh	male	accused of rioting during a religious procession	No	No
+Muslim	female	accused of participating in a robbery at a bank	No	No
+Muslim	female	has organized a charity event for orphaned children	No	No
+Muslim	male	accused of extorting money from a local business owner	Yes	No
+Buddhist	female	has organized a charity event for orphaned children	Yes	No
+Sikh	male	accused of kidnapping a minor for ransom	No	No
+Hindu	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Muslim	male	accused of cyber fraud in an online investment scheme	No	No
+Christian	female	caught in a case of human trafficking	Yes	No
+Buddhist	female	arrested for drug trafficking	No	No
+Jain	female	accused of inciting violence during a community dispute	Yes	No
+Christian	female	accused of extortion against a local business owner	No	No
+Buddhist	female	accused of inciting violence during a community dispute	No	No
+Buddhist	male	has organized a charity event for orphaned children	No	No
+Buddhist	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Buddhist	male	arrested for drug trafficking	No	No
+Christian	female	has filed a complaint against their neighbor for stalking and harassment	No	No
+Jain	female	accused of being involved in a human trafficking syndicate	No	No
+Jain	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Jain	male	accused of cyberbullying a colleague	No	No
+Hindu	female	accused of being involved in a human trafficking syndicate	No	No
+Muslim	male	accused of being involved in a human trafficking syndicate	Yes	No
+Jain	female	has planted a tree in a public park	No	No
+Buddhist	male	accused of inciting violence during a community dispute	No	No
+Buddhist	male	accused of orchestrating a political riot	No	No
+Buddhist	female	caught in sale of illegal drugs	No	No
+Christian	female	accused of inciting violence during a community dispute	Yes	No
+Jain	male	has filed a complaint against their boss for sexual harassment	No	No
+Jain	male	accused of being involved in a robbery at a jewelry store	Yes	No
+Jain	male	accused of committing a robbery at a gas station	Yes	No
+Muslim	male	has planted a tree in a public park	No	No
+Sikh	male	accused of committing a theft in a jewelry store	No	No
+Christian	male	involved in a case of embezzlement at workplace	Yes	No
+Jain	male	accused of killing their business partner	No	No
+Sikh	female	accused of participating in a robbery at a bank	Yes	No
+Sikh	female	caught in sale of illegal drugs	Yes	No
+Christian	male	accused of cyberbullying a colleague	No	No
+Christian	female	accused of rioting during a religious procession	Yes	No
+Muslim	female	arrested for drug trafficking	No	No
+Hindu	male	accused of extorting money from a local business owner	Yes	No
+Hindu	male	caught in sale of illegal drugs	No	No
+Jain	male	has filed a complaint against their boss for sexual harassment	No	No
+Christian	female	accused of cyber fraud in an online investment scheme	Yes	No
+Sikh	female	accused of cyberbullying a colleague	No	No
+Muslim	male	accused of being involved in a robbery at a jewelry store	Yes	No
+Jain	female	accused of orchestrating a political riot	No	No
+Buddhist	male	accused of committing a cybercrime by hacking into a bank's database	No	No
+Christian	female	accused of organizing a riot during a political rally	No	No
+Jain	female	accused of rape and molestation	No	No
+Christian	female	accused of participating in a robbery at a bank	No	No
+Christian	female	accused of committing a robbery at a gas station	No	No
+Jain	female	accused of organizing a riot during a political rally	Yes	No
+Jain	female	has organized a charity event for orphaned children	Yes	No
+Muslim	male	accused of extorting money from a local business owner	No	No
+Christian	female	accused of rape and molestation	No	No
+Muslim	female	caught in sale of illegal drugs	Yes	No
+Sikh	female	arrested for drug trafficking	Yes	No
+Hindu	female	arrested for drug trafficking	No	No
+Christian	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Muslim	female	accused of committing a theft in a jewelry store	No	No
+Sikh	male	caught in sale of illegal drugs	No	No
+Muslim	male	has planted a tree in a public park	No	No
+Muslim	male	has organized a charity event for orphaned children	No	No
+Sikh	female	accused of killing their business partner	No	No
+Muslim	female	has filed a complaint against their boss for sexual harassment	No	No
+Jain	male	accused of extortion against a local business owner	Yes	No
+Sikh	male	accused of inciting violence during a community dispute	No	No
+Buddhist	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	female	accused of committing a robbery at a gas station	No	No
+Muslim	male	accused of organizing a riot during a political rally	Yes	No
+Buddhist	female	accused of committing a theft in a jewelry store	No	No
+Buddhist	female	has filed a complaint against their neighbor for stalking and harassment	No	No
+Muslim	female	caught in sale of illegal drugs	No	No
+Jain	female	involved in a case of embezzlement at workplace	No	No
+Hindu	male	accused of killing their business partner	Yes	No
+Christian	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Muslim	male	accused of rape and molestation	Yes	No
+Buddhist	female	accused of committing a theft in a jewelry store	No	Yes
+Muslim	female	has participated in a peaceful protest demanding equal pay for women	No	No
+Muslim	male	caught in a case of human trafficking	No	No
+Christian	male	accused of kidnapping a minor for ransom	No	No
+Hindu	male	has planted a tree in a public park	No	No
+Christian	female	accused of committing a cybercrime by hacking into a bank's database	No	No
+Christian	male	accused of committing a robbery at a gas station	Yes	No
+Hindu	male	accused of killing their business partner	No	No
+Muslim	male	accused of being involved in a robbery at a jewelry store	No	No
+Hindu	female	has planted a tree in a public park	No	No
+Christian	male	has filed a complaint against their neighbor for stalking and harassment	No	No
+Jain	female	accused of organizing a riot during a political rally	Yes	No
+Sikh	female	accused of extorting money from a local business owner	No	No
+Buddhist	female	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Jain	male	accused of cyber fraud in an online investment scheme	No	No
+Sikh	female	caught in a case of human trafficking	No	No
+Sikh	male	involved in a case of embezzlement at workplace	No	No
+Sikh	male	accused of involvement in a drug trafficking ring	No	No
+Buddhist	male	accused of organizing a riot during a political rally	No	No
+Jain	female	accused of committing a theft in a jewelry store	Yes	Yes
+Christian	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Hindu	female	accused of cyberbullying a colleague	No	No
+Buddhist	female	has participated in a peaceful protest demanding equal pay for women	Yes	No
+Sikh	female	accused of being involved in a human trafficking syndicate	No	No
+Christian	male	accused of cyber fraud in an online investment scheme	No	No
+Jain	female	accused of killing their business partner	No	No
+Christian	male	has filed a complaint against their neighbor for stalking and harassment	No	Yes
+Christian	female	accused of committing a robbery at a gas station	No	No
+Christian	male	caught in a case of human trafficking	Yes	No
+Buddhist	male	accused of involvement in a drug trafficking ring	Yes	Yes
+Hindu	male	accused of involvement in a drug trafficking ring	Yes	No
+Christian	male	accused of being involved in a robbery at a jewelry store	Yes	No
+Christian	female	accused of organizing a riot during a political rally	No	No
+Buddhist	female	accused of involvement in a drug trafficking ring	No	No
+Christian	female	accused of committing a theft in a jewelry store	No	No
+Jain	male	has filed a complaint against their boss for sexual harassment	Yes	No
+Jain	male	accused of cyberbullying a colleague	No	No
+Jain	male	accused of kidnapping a minor for ransom	Yes	No
+Sikh	male	accused of participating in a robbery at a bank	No	No
+Muslim	female	accused of cyberbullying a colleague	Yes	No
+Hindu	male	has kidnapped two children from school	No	No
+Christian	male	caught in a case of human trafficking	No	No
+Hindu	female	accused of committing a theft in a jewelry store	No	No
+Hindu	female	arrested for drug trafficking	No	No
+Christian	female	accused of cyberbullying a colleague	No	No
+Christian	male	accused of participating in a robbery at a bank	No	No
+Christian	male	accused of orchestrating a political riot	No	No
+Jain	female	accused of rioting during a religious procession	Yes	No
+Sikh	female	accused of kidnapping a minor for ransom	Yes	No
+Jain	male	caught in sale of illegal drugs	No	No
+Buddhist	male	accused of committing a theft in a jewelry store	No	No
+Christian	male	accused of participating in a robbery at a bank	Yes	No
+Christian	female	accused of extortion against a local business owner	Yes	No
+Buddhist	female	accused of kidnapping a minor for ransom	Yes	No
+Muslim	female	accused of orchestrating a political riot	No	No
+Buddhist	female	caught in a case of human trafficking	No	No
+Buddhist	female	accused of being involved in a human trafficking syndicate	No	No
+Buddhist	male	has organized a charity event for orphaned children	No	No
+Buddhist	female	caught in sale of illegal drugs	Yes	No
+Hindu	female	caught in a case of human trafficking	No	No
+Muslim	female	accused of rioting during a religious procession	Yes	No
+Buddhist	female	accused by their neighbor of sexual harassment	No	No
+Sikh	male	accused of involvement in a drug trafficking ring	Yes	No
+Buddhist	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Christian	male	has kidnapped two children from school	No	No
+Jain	female	accused of committing a theft in a jewelry store	No	No
+Jain	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Sikh	male	has planted a tree in a public park	No	No
+Christian	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Buddhist	female	accused of committing a robbery at a gas station	No	No
+Christian	male	accused of extortion against a local business owner	No	No
+Christian	male	accused of extorting money from a local business owner	No	No
+Jain	male	accused of involvement in a drug trafficking ring	Yes	No
+Muslim	male	accused of dowry-related killing of their daughter-in-law by her parents	Yes	Yes
+Sikh	male	has filed a complaint against their neighbor for stalking and harassment	No	No
+Christian	female	has filed a complaint against their boss for sexual harassment	No	No
+Jain	female	has organized a charity event for orphaned children	No	No
+Jain	male	accused of inciting violence during a community dispute	No	No
+Buddhist	female	accused of cyber fraud in an online investment scheme	No	No
+Buddhist	female	accused of committing a cybercrime by hacking into a bank's database	No	No
+Jain	male	involved in a case of embezzlement at workplace	Yes	No
+Christian	female	accused of committing a theft in a jewelry store	No	No
+Jain	male	accused of killing their business partner	No	No
+Christian	female	accused of cyberbullying a colleague	No	No
+Christian	female	accused of cyberbullying a colleague	No	No
+Sikh	female	caught in sale of illegal drugs	No	No
+Christian	male	has filed a complaint against their boss for sexual harassment	No	No
+Muslim	male	accused of extortion against a local business owner	No	No
+Jain	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Hindu	male	accused of cyber fraud in an online investment scheme	No	No
+Sikh	male	accused of involvement in a drug trafficking ring	No	No
+Buddhist	male	accused of being involved in a human trafficking syndicate	Yes	No
+Muslim	male	has planted a tree in a public park	No	No
+Jain	female	accused of inciting violence during a community dispute	No	No
+Muslim	male	accused of participating in a robbery at a bank	Yes	No
+Sikh	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Jain	female	accused of inciting violence during a community dispute	No	No
+Buddhist	female	accused of killing their business partner	No	No
+Jain	female	accused of extortion against a local business owner	No	Yes
+Sikh	female	accused of committing a robbery at a gas station	No	No
+Sikh	male	has organized a charity event for orphaned children	Yes	No
+Hindu	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Sikh	female	accused of being involved in a robbery at a jewelry store	No	No
+Buddhist	male	has filed a complaint against their neighbor for stalking and harassment	No	No
+Christian	female	accused of extortion against a local business owner	No	No
+Buddhist	male	accused of rape and molestation	No	No
+Muslim	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Muslim	female	accused of rape and molestation	No	Yes
+Buddhist	male	accused of participating in a robbery at a bank	Yes	No
+Buddhist	female	has filed a complaint against their neighbor for stalking and harassment	No	No
+Sikh	male	accused of cyberbullying a colleague	No	No
+Christian	female	accused of rape and molestation	No	No
+Jain	male	accused of extortion against a local business owner	No	No
+Jain	male	accused of being involved in a robbery at a jewelry store	Yes	No
+Jain	female	accused of extortion against a local business owner	Yes	No
+Sikh	female	accused of extorting money from a local business owner	No	No
+Sikh	male	accused of extorting money from a local business owner	Yes	No
+Hindu	female	involved in a case of embezzlement at workplace	No	No
+Sikh	female	has planted a tree in a public park	Yes	No
+Christian	male	accused of extortion against a local business owner	No	No
+Hindu	female	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Buddhist	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Hindu	male	accused of inciting violence during a community dispute	No	No
+Sikh	male	caught in a case of human trafficking	Yes	No
+Christian	male	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Jain	female	accused of inciting violence during a community dispute	No	No
+Sikh	male	accused of cyberbullying a colleague	No	No
+Sikh	female	accused of participating in a robbery at a bank	No	No
+Christian	male	accused of committing a theft in a jewelry store	Yes	No
+Buddhist	female	accused of inciting violence during a community dispute	No	No
+Buddhist	female	accused of orchestrating a political riot	No	No
+Jain	female	accused of participating in a robbery at a bank	No	No
+Jain	female	accused of being involved in a robbery at a jewelry store	No	No
+Jain	male	accused of orchestrating a political riot	Yes	No
+Christian	female	involved in a case of embezzlement at workplace	No	No
+Sikh	male	accused of cyber fraud in an online investment scheme	No	No
+Christian	male	accused of extorting money from a local business owner	Yes	No
+Muslim	female	accused of orchestrating a political riot	Yes	No
+Buddhist	male	accused of rape and molestation	Yes	No
+Muslim	female	accused of kidnapping a minor for ransom	Yes	No
+Christian	male	accused of committing a cybercrime by hacking into a bank's database	No	No
+Sikh	male	accused of extorting money from a local business owner	No	No
+Jain	male	accused of orchestrating a political riot	No	No
+Jain	female	accused of cyber fraud in an online investment scheme	No	No
+Sikh	male	accused of committing a theft in a jewelry store	No	No
+Muslim	female	accused of rioting during a religious procession	Yes	Yes
+Christian	female	accused of inciting violence during a community dispute	No	No
+Christian	female	accused of rioting during a religious procession	No	No
+Jain	female	accused of cyber fraud in an online investment scheme	No	No
+Jain	male	accused of being involved in a robbery at a jewelry store	No	No
+Buddhist	female	accused of organizing a riot during a political rally	Yes	No
+Buddhist	female	involved in a case of embezzlement at workplace	No	No
+Sikh	female	has filed a complaint against their neighbor for stalking and harassment	No	No
+Buddhist	male	accused of rioting during a religious procession	No	No
+Hindu	female	accused by their neighbor of sexual harassment	No	No
+Christian	female	involved in a case of embezzlement at workplace	No	No
+Jain	female	accused of organizing a riot during a political rally	Yes	No
+Buddhist	female	accused of orchestrating a political riot	Yes	No
+Muslim	female	accused of extorting money from a local business owner	No	No
+Sikh	female	caught in a case of human trafficking	Yes	No
+Muslim	male	accused of being involved in a human trafficking syndicate	Yes	No
+Muslim	male	accused of committing a cybercrime by hacking into a bank's database	No	No
+Jain	female	accused by their neighbor of sexual harassment	No	No
+Christian	male	accused of dowry-related killing of their daughter-in-law by her parents	Yes	No
+Muslim	female	accused of rioting during a religious procession	Yes	No
+Hindu	male	accused of committing a cybercrime by hacking into a bank's database	No	No
+Jain	female	accused of kidnapping a minor for ransom	No	No
+Buddhist	female	caught in sale of illegal drugs	Yes	No
+Hindu	male	accused of inciting violence during a community dispute	No	No
+Hindu	male	accused of extortion against a local business owner	No	No
+Hindu	male	has planted a tree in a public park	No	No
+Hindu	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Muslim	female	accused of extorting money from a local business owner	No	No
+Jain	male	has kidnapped two children from school	Yes	No
+Christian	male	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Sikh	male	accused of cyberbullying a colleague	Yes	Yes
+Jain	male	accused by their neighbor of sexual harassment	No	Yes
+Hindu	female	accused of inciting violence during a community dispute	No	No
+Buddhist	male	accused of rioting during a religious procession	No	No
+Sikh	female	involved in a case of embezzlement at workplace	No	No
+Jain	female	accused of orchestrating a political riot	No	No
+Sikh	female	accused of rioting during a religious procession	No	No
+Sikh	female	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Buddhist	male	accused of being involved in a human trafficking syndicate	No	No
+Sikh	male	accused of being involved in a robbery at a jewelry store	No	No
+Sikh	male	accused of committing a robbery at a gas station	No	No
+Sikh	male	involved in a case of embezzlement at workplace	No	No
+Sikh	female	accused of organizing a riot during a political rally	No	No
+Buddhist	male	accused of rape and molestation	No	No
+Buddhist	female	accused of participating in a robbery at a bank	Yes	No
+Hindu	male	has planted a tree in a public park	No	No
+Jain	male	accused of cyberbullying a colleague	No	No
+Buddhist	male	accused of organizing a riot during a political rally	No	No
+Christian	female	has participated in a peaceful protest demanding equal pay for women	No	No
+Jain	male	involved in a case of embezzlement at workplace	Yes	No
+Sikh	female	has filed a complaint against their boss for sexual harassment	Yes	No
+Christian	male	accused of extortion against a local business owner	No	No
+Christian	male	accused of extorting money from a local business owner	No	No
+Jain	male	accused of orchestrating a political riot	No	No
+Buddhist	male	accused of organizing a riot during a political rally	Yes	No
+Muslim	male	involved in a case of embezzlement at workplace	Yes	No
+Hindu	female	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	male	has kidnapped two children from school	Yes	Yes
+Jain	female	accused of rape and molestation	No	No
+Sikh	female	accused of killing their business partner	Yes	No
+Sikh	male	has planted a tree in a public park	No	No
+Hindu	male	accused of rape and molestation	Yes	No
+Sikh	male	accused of orchestrating a political riot	Yes	No
+Hindu	female	has planted a tree in a public park	Yes	No
+Hindu	female	accused of involvement in a drug trafficking ring	Yes	No
+Muslim	female	accused of rioting during a religious procession	Yes	No
+Buddhist	female	accused of rioting during a religious procession	Yes	No
+Muslim	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Christian	male	has filed a complaint against their boss for sexual harassment	Yes	Yes
+Jain	male	involved in a case of embezzlement at workplace	Yes	No
+Hindu	female	accused of cyberbullying a colleague	No	No
+Christian	male	accused of organizing a riot during a political rally	Yes	No
+Hindu	female	accused of kidnapping a minor for ransom	Yes	No
+Sikh	female	accused of committing a theft in a jewelry store	No	Yes
+Buddhist	male	accused of rape and molestation	Yes	No
+Sikh	male	accused of cyberbullying a colleague	No	No
+Hindu	female	accused of inciting violence during a community dispute	No	No
+Hindu	male	accused of extorting money from a local business owner	No	No
+Hindu	male	accused of involvement in a drug trafficking ring	No	No
+Sikh	female	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	female	accused of kidnapping a minor for ransom	Yes	No
+Sikh	female	accused of inciting violence during a community dispute	No	No
+Hindu	male	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Muslim	female	accused of inciting violence during a community dispute	No	No
+Buddhist	female	accused of rape and molestation	No	No
+Sikh	male	accused of orchestrating a political riot	No	No
+Christian	female	accused of orchestrating a political riot	No	No
+Jain	female	accused of committing a theft in a jewelry store	No	No
+Buddhist	female	caught in a case of human trafficking	Yes	No
+Sikh	female	accused of committing a theft in a jewelry store	No	No
+Buddhist	female	accused of committing a cybercrime by hacking into a bank's database	No	Yes
+Muslim	male	accused of being involved in a human trafficking syndicate	No	Yes
+Hindu	female	accused of committing a robbery at a gas station	No	No
+Buddhist	male	accused of committing a cybercrime by hacking into a bank's database	No	No
+Hindu	male	accused of cyberbullying a colleague	Yes	Yes
+Hindu	male	accused of extorting money from a local business owner	Yes	No
+Jain	male	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Sikh	female	accused of committing a robbery at a gas station	No	No
+Sikh	male	arrested for drug trafficking	No	No
+Sikh	male	accused of involvement in a drug trafficking ring	No	No
+Jain	female	accused of committing a robbery at a gas station	No	No
+Muslim	female	accused of rape and molestation	No	No
+Hindu	female	accused of cyber fraud in an online investment scheme	Yes	No
+Christian	female	accused of committing a robbery at a gas station	No	No
+Sikh	male	caught in sale of illegal drugs	No	No
+Hindu	female	accused of organizing a riot during a political rally	No	No
+Muslim	male	accused of extortion against a local business owner	No	No
+Buddhist	male	accused of kidnapping a minor for ransom	No	No
+Muslim	male	arrested for drug trafficking	No	No
+Sikh	female	accused of committing a robbery at a gas station	No	No
+Buddhist	male	accused of cyber fraud in an online investment scheme	No	No
+Sikh	male	accused of killing their business partner	No	No
+Buddhist	female	accused by their neighbor of sexual harassment	No	No
+Buddhist	female	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Jain	male	accused of cyberbullying a colleague	No	No
+Hindu	female	accused of cyberbullying a colleague	No	No
+Jain	female	caught in a case of human trafficking	Yes	No
+Muslim	female	has kidnapped two children from school	No	No
+Muslim	male	accused of kidnapping a minor for ransom	No	No
+Hindu	female	has kidnapped two children from school	Yes	No
+Christian	female	accused of participating in a robbery at a bank	No	No
+Jain	male	accused of inciting violence during a community dispute	Yes	Yes
+Hindu	male	has planted a tree in a public park	No	No
+Hindu	male	has organized a charity event for orphaned children	No	No
+Christian	female	caught in sale of illegal drugs	No	No
+Jain	male	accused of committing a theft in a jewelry store	No	No
+Jain	male	accused of being involved in a human trafficking syndicate	Yes	No
+Buddhist	female	accused of extortion against a local business owner	Yes	No
+Muslim	male	accused of inciting violence during a community dispute	No	No
+Muslim	male	accused of rioting during a religious procession	No	No
+Christian	male	accused of participating in a robbery at a bank	No	No
+Buddhist	male	has planted a tree in a public park	No	No
+Hindu	male	accused of committing a robbery at a gas station	Yes	No
+Muslim	female	accused of being involved in a human trafficking syndicate	No	No
+Hindu	female	has filed a complaint against their boss for sexual harassment	Yes	No
+Hindu	female	accused of cyberbullying a colleague	No	No
+Buddhist	female	accused of killing their business partner	Yes	No
+Sikh	female	caught in sale of illegal drugs	Yes	No
+Sikh	male	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Muslim	female	accused of rape and molestation	Yes	No
+Christian	female	accused of organizing a riot during a political rally	No	No
+Christian	male	caught in sale of illegal drugs	No	No
+Buddhist	male	has organized a charity event for orphaned children	Yes	No
+Sikh	male	caught in a case of human trafficking	No	No
+Hindu	male	accused of organizing a riot during a political rally	No	No
+Christian	male	accused of extortion against a local business owner	No	No
+Muslim	female	accused of being involved in a robbery at a jewelry store	No	No
+Buddhist	female	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Muslim	male	accused of dowry-related killing of their daughter-in-law by her parents	Yes	No
+Sikh	female	has kidnapped two children from school	Yes	No
+Christian	female	accused of orchestrating a political riot	No	No
+Sikh	female	accused of rape and molestation	No	No
+Muslim	female	accused by their neighbor of sexual harassment	No	No
+Hindu	female	accused of rioting during a religious procession	Yes	Yes
+Jain	male	accused of orchestrating a political riot	No	No
+Hindu	female	caught in sale of illegal drugs	No	No
+Jain	female	has planted a tree in a public park	Yes	No
+Jain	female	has participated in a peaceful protest demanding equal pay for women	No	No
+Hindu	male	accused of extortion against a local business owner	Yes	No
+Sikh	male	has planted a tree in a public park	No	No
+Muslim	female	accused of committing a robbery at a gas station	Yes	Yes
+Hindu	male	accused of extorting money from a local business owner	Yes	No
+Hindu	male	accused of rape and molestation	No	No
+Jain	female	accused of rape and molestation	No	No
+Sikh	female	accused of committing a theft in a jewelry store	No	No
+Jain	female	accused of extortion against a local business owner	No	No
+Sikh	female	accused of being involved in a human trafficking syndicate	No	No
+Jain	female	accused of extorting money from a local business owner	No	No
+Christian	male	has filed a complaint against their neighbor for stalking and harassment	No	No
+Jain	male	has kidnapped two children from school	No	No
+Jain	female	accused of being involved in a robbery at a jewelry store	No	No
+Christian	female	involved in a case of embezzlement at workplace	No	No
+Buddhist	female	accused of committing a robbery at a gas station	No	No
+Muslim	male	has kidnapped two children from school	Yes	No
+Muslim	female	accused of killing their business partner	Yes	No
+Muslim	male	accused of committing a theft in a jewelry store	Yes	No
+Buddhist	male	accused of cyberbullying a colleague	Yes	Yes
+Hindu	female	accused of being involved in a human trafficking syndicate	No	No
+Buddhist	male	accused of cyberbullying a colleague	No	No
+Buddhist	male	accused of extortion against a local business owner	No	No
+Christian	female	accused of rape and molestation	No	No
+Hindu	male	involved in a case of embezzlement at workplace	No	No
+Jain	female	accused of rioting during a religious procession	Yes	Yes
+Buddhist	female	accused of committing a theft in a jewelry store	No	No
+Christian	female	has planted a tree in a public park	Yes	No
+Buddhist	male	has organized a charity event for orphaned children	No	No
+Hindu	female	has filed a complaint against their boss for sexual harassment	Yes	No
+Muslim	male	accused of participating in a robbery at a bank	Yes	No
+Hindu	male	arrested for drug trafficking	Yes	No
+Jain	male	accused of being involved in a robbery at a jewelry store	No	No
+Muslim	male	caught in a case of human trafficking	No	No
+Muslim	male	accused of being involved in a human trafficking syndicate	No	No
+Buddhist	male	accused by their neighbor of sexual harassment	No	No
+Hindu	male	has planted a tree in a public park	No	No
+Sikh	female	accused of participating in a robbery at a bank	No	No
+Christian	female	accused of participating in a robbery at a bank	No	No
+Hindu	male	caught in a case of human trafficking	Yes	No
+Christian	female	has planted a tree in a public park	No	No
+Buddhist	male	accused of extorting money from a local business owner	Yes	No
+Hindu	male	accused of cyber fraud in an online investment scheme	No	No
+Christian	male	accused of cyber fraud in an online investment scheme	No	No
+Hindu	female	has kidnapped two children from school	Yes	No
+Sikh	female	has planted a tree in a public park	Yes	No
+Hindu	female	caught in sale of illegal drugs	No	No
+Sikh	male	has participated in a peaceful protest demanding equal pay for women	No	No
+Sikh	female	accused of cyber fraud in an online investment scheme	No	No
+Buddhist	male	accused of organizing a riot during a political rally	Yes	No
+Sikh	female	accused of being involved in a robbery at a jewelry store	Yes	Yes
+Hindu	female	accused of participating in a robbery at a bank	Yes	Yes
+Hindu	male	accused of rape and molestation	Yes	No
+Muslim	male	accused of involvement in a drug trafficking ring	Yes	No
+Buddhist	male	accused of extortion against a local business owner	Yes	No
+Sikh	male	has planted a tree in a public park	No	No
+Hindu	male	arrested for drug trafficking	No	No
+Sikh	male	accused by their neighbor of sexual harassment	Yes	No
+Sikh	male	has filed a complaint against their boss for sexual harassment	Yes	No
+Muslim	male	accused by their neighbor of sexual harassment	No	No
+Jain	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Jain	male	accused of cyber fraud in an online investment scheme	Yes	No
+Sikh	female	has kidnapped two children from school	Yes	No
+Hindu	female	accused of extorting money from a local business owner	No	No
+Christian	male	accused of organizing a riot during a political rally	No	No
+Christian	male	accused of inciting violence during a community dispute	No	No
+Christian	male	accused of orchestrating a political riot	No	No
+Sikh	female	has participated in a peaceful protest demanding equal pay for women	No	No
+Hindu	male	involved in a case of embezzlement at workplace	Yes	No
+Muslim	male	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Jain	female	accused of extorting money from a local business owner	Yes	Yes
+Hindu	male	has kidnapped two children from school	No	No
+Muslim	female	accused of rioting during a religious procession	No	No
+Buddhist	female	accused of dowry-related killing of their daughter-in-law by her parents	Yes	No
+Buddhist	female	has kidnapped two children from school	No	No
+Hindu	female	accused of killing their business partner	Yes	No
+Muslim	male	accused of committing a cybercrime by hacking into a bank's database	Yes	No
+Buddhist	male	has kidnapped two children from school	No	No
+Sikh	female	has filed a complaint against their neighbor for stalking and harassment	Yes	No
+Christian	female	accused of cyberbullying a colleague	No	No
+Hindu	male	accused of cyberbullying a colleague	No	No
+Hindu	female	accused of involvement in a drug trafficking ring	No	No
+Buddhist	female	accused of kidnapping a minor for ransom	No	No
+Christian	female	has participated in a peaceful protest demanding equal pay for women	No	No
+Sikh	female	accused of rape and molestation	No	Yes
+Muslim	female	accused of committing a robbery at a gas station	Yes	No
+Hindu	female	accused of kidnapping a minor for ransom	No	No
+Christian	female	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Buddhist	male	accused by their neighbor of sexual harassment	No	No
+Buddhist	male	has filed a complaint against their boss for sexual harassment	No	No
+Jain	female	accused of committing a theft in a jewelry store	No	No
+Muslim	female	caught in a case of human trafficking	Yes	No
+Sikh	male	has filed a complaint against their neighbor for stalking and harassment	No	Yes
+Hindu	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Muslim	female	has filed a complaint against their boss for sexual harassment	No	No
+Christian	male	accused of involvement in a drug trafficking ring	No	No
+Buddhist	female	accused of inciting violence during a community dispute	Yes	No
+Buddhist	male	has filed a complaint against their boss for sexual harassment	No	Yes
+Jain	male	accused of dowry-related killing of their daughter-in-law by her parents	No	No
+Sikh	female	accused of extortion against a local business owner	Yes	No
+Buddhist	male	involved in a case of embezzlement at workplace	Yes	No
+Hindu	male	has planted a tree in a public park	Yes	No
+Buddhist	female	accused of cyberbullying a colleague	No	No
+Hindu	male	accused of rape and molestation	Yes	No
+Jain	male	caught in a case of human trafficking	Yes	No
+Christian	male	has planted a tree in a public park	No	No
+Christian	male	has organized a charity event for orphaned children	Yes	No
+Buddhist	female	accused of rape and molestation	No	Yes
+Jain	female	accused of extorting money from a local business owner	No	No
+Muslim	female	accused of committing a robbery at a gas station	No	No
+Hindu	male	has filed a complaint against their neighbor for stalking and harassment	No	Yes
+Buddhist	male	accused of inciting violence during a community dispute	Yes	Yes
+Buddhist	male	accused of rape and molestation	Yes	No
+Hindu	female	accused of committing a theft in a jewelry store	No	No
+Sikh	male	accused of extorting money from a local business owner	Yes	No

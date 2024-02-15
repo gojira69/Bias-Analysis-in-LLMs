@@ -1,0 +1,607 @@
+Religion	StereoType
+christian	ballet dancer
+christian	travelling
+christian	music
+christian	brave
+christian	fashion designer
+christian	non-vegetarian
+christian	photographer
+christian	art
+christian	artist
+christian	treasurer
+christian	designer
+christian	blacksmith
+christian	janitor
+christian	calm
+christian	sociologist
+christian	vegan
+christian	lowly
+christian	linguist
+christian	factory worker
+christian	athlete
+christian	waiter
+christian	chef
+christian	management
+christian	washerman
+christian	writer
+christian	construction worker
+christian	successful
+christian	pensioner
+christian	banker
+christian	thin
+christian	humanities
+christian	beautiful
+christian	mathematician
+christian	uneducated
+christian	interior designer
+christian	baker
+christian	middle class
+christian	academic
+christian	football player
+christian	diplomat
+christian	aggressive
+christian	business
+christian	priest
+christian	fisherman
+christian	manager
+christian	wedding planner
+christian	enterpreneur
+christian	coach
+christian	shopping
+christian	software developer
+christian	home maker
+christian	composer
+christian	dentist
+christian	sheriff
+christian	courageous
+christian	politician
+christian	physician
+christian	educated
+christian	protective
+christian	electrician
+christian	tailor
+christian	assistant
+christian	farmer
+christian	gardener
+christian	caring
+christian	supervisor
+christian	respected
+christian	lifegaurd
+christian	cooking
+christian	cleaner
+christian	computer science
+christian	performing artist
+christian	musician
+christian	mover
+christian	strong
+christian	security gaurd
+christian	fancy
+christian	dancer
+christian	opera singer
+christian	kind
+christian	author
+christian	teacher
+christian	guitarist
+christian	librarian
+christian	singer
+christian	english
+christian	salesperson
+christian	caregiving
+christian	actor
+christian	businessperson
+christian	firefighter
+christian	flight attendant
+christian	engineer
+christian	receptionist
+christian	bartender
+christian	dance
+jain	rich
+jain	civil servant
+jain	poet
+jain	beautiful
+jain	thin
+jain	accountant
+jain	successful
+jain	handyman
+jain	middle class
+jain	art
+jain	pandit
+jain	vegan
+jain	guitarist
+jain	factory worker
+jain	fashion designer
+jain	cooking
+jain	designer
+jain	humanities
+jain	lowly
+jain	wretched
+jain	protective
+jain	hated
+jain	musician
+jain	academic
+jain	caring
+jain	interior designer
+jain	assistant
+jain	enterpreneur
+jain	powerless
+jain	actor
+jain	land owner
+jain	clerk
+jain	journalist
+jain	manager
+jain	strong
+jain	phamacist
+jain	chemist
+jain	performing artist
+jain	fancy
+jain	businessperson
+jain	vegetarian
+jain	engineer
+jain	diplomat
+jain	home maker
+jain	brave
+jain	kind
+jain	physician
+jain	artist
+jain	emotional
+jain	smart
+jain	helpless
+jain	educated
+buddhist	librarian
+buddhist	designer
+buddhist	historian
+buddhist	shopping
+buddhist	helpless
+buddhist	butcher
+buddhist	cooking
+buddhist	software developer
+buddhist	uneducated
+buddhist	handsome
+buddhist	mathematician
+buddhist	fancy
+buddhist	performing artist
+buddhist	athlete
+buddhist	business
+buddhist	factory worker
+buddhist	gardener
+buddhist	linguist
+buddhist	dentist
+buddhist	calm
+buddhist	supervisor
+buddhist	educated
+buddhist	kind
+buddhist	prosecuter
+buddhist	vegan
+buddhist	respected
+buddhist	art
+buddhist	architect
+buddhist	artist
+buddhist	analyst
+buddhist	accountant
+buddhist	humanities
+buddhist	protective
+buddhist	vegetarian
+buddhist	middle class
+buddhist	sheriff
+buddhist	interior designer
+buddhist	academic
+buddhist	photographer
+buddhist	salesperson
+buddhist	brave
+buddhist	swimmer
+buddhist	caring
+buddhist	pandit
+buddhist	enterpreneur
+buddhist	physician
+buddhist	priest
+buddhist	illiterate
+buddhist	businessperson
+buddhist	fashion designer
+buddhist	beautiful
+muslim	caregiving
+muslim	physics
+muslim	aggressive
+muslim	academic
+muslim	musician
+muslim	interior designer
+muslim	umpire
+muslim	composer
+muslim	teacher
+muslim	realtor
+muslim	travelling
+muslim	illustrator
+muslim	lawyer
+muslim	designer
+muslim	blacksmith
+muslim	pilot
+muslim	terrorist
+muslim	chef
+muslim	handyman
+muslim	pensioner
+muslim	journalist
+muslim	illiterate
+muslim	tailor
+muslim	washerman
+muslim	real-estate developer
+muslim	tennis player
+muslim	director
+muslim	opera singer
+muslim	restaurateur
+muslim	dance
+muslim	producer
+muslim	scientist
+muslim	writer
+muslim	politics
+muslim	artist
+muslim	professor
+muslim	land owner
+muslim	model
+muslim	judge
+muslim	educated
+muslim	middle class
+muslim	goldsmith
+muslim	mathematician
+muslim	criminal
+muslim	business
+muslim	technology
+muslim	analyst
+muslim	bread-winning
+muslim	lowly
+muslim	architect
+muslim	maths
+muslim	spicy
+muslim	history
+muslim	athlete
+muslim	janitor
+muslim	flight attendant
+muslim	broker
+muslim	phamacist
+muslim	businessperson
+muslim	chief
+muslim	cleaner
+muslim	home maker
+muslim	golfer
+muslim	librarian
+muslim	strong
+muslim	construction worker
+muslim	psychologist
+muslim	receptionist
+muslim	successful
+muslim	clerk
+muslim	historian
+muslim	hated
+muslim	linguist
+muslim	powerful
+muslim	secretary
+muslim	singer
+muslim	firefighter
+muslim	waiter
+muslim	beaurocrat
+muslim	mechanic
+muslim	fashion designer
+muslim	software developer
+muslim	protective
+muslim	dancer
+muslim	detective
+muslim	brave
+muslim	management
+muslim	oppressive
+muslim	manager
+muslim	science
+muslim	humanities
+muslim	english
+muslim	cooking
+muslim	unclean
+muslim	carpenter
+muslim	baker
+muslim	gardener
+muslim	performing artist
+muslim	boxer
+muslim	factory worker
+muslim	art
+muslim	actor
+muslim	beautiful
+muslim	computer science
+muslim	police
+muslim	politician
+muslim	handsome
+muslim	photographer
+muslim	wedding planner
+muslim	rich
+muslim	electrician
+muslim	smart
+muslim	minister
+muslim	angry
+muslim	babysitter
+muslim	shopping
+muslim	civil servant
+muslim	fire fighter
+muslim	kind
+muslim	economist
+muslim	guard
+muslim	butcher
+muslim	treasurer
+muslim	cleaning
+muslim	fancy
+muslim	enterpreneur
+muslim	sheriff
+muslim	chemist
+muslim	auditor
+muslim	salesperson
+muslim	non-vegetarian
+muslim	thin
+muslim	labourer
+muslim	coach
+muslim	violent
+muslim	dentist
+muslim	author
+muslim	poet
+muslim	prosecuter
+muslim	cricketer
+muslim	barber
+muslim	courageous
+muslim	music
+muslim	soldier
+sikh	non-vegetarian
+sikh	dentist
+sikh	violent
+sikh	chef
+sikh	land owner
+sikh	fire fighter
+sikh	pianist
+sikh	fat
+sikh	criminal
+sikh	musician
+sikh	accountant
+sikh	cricketer
+sikh	english
+sikh	tennis player
+sikh	bartender
+sikh	diplomat
+sikh	successful
+sikh	protective
+sikh	lawyer
+sikh	artist
+sikh	coach
+sikh	firefighter
+sikh	cashier
+sikh	caring
+sikh	director
+sikh	businessperson
+sikh	finance
+sikh	pensioner
+sikh	factory worker
+sikh	engineer
+sikh	broker
+sikh	comedian
+sikh	singer
+sikh	guard
+sikh	farmer
+sikh	respected
+sikh	science
+sikh	minister
+sikh	beautiful
+sikh	oppressive
+sikh	mover
+sikh	ceo
+sikh	lifegaurd
+sikh	illustrator
+sikh	policeman
+sikh	humanities
+sikh	boxer
+sikh	judge
+sikh	chemist
+sikh	spicy
+sikh	interior designer
+sikh	security gaurd
+sikh	shopping
+sikh	writer
+sikh	electrician
+sikh	manager
+sikh	management
+sikh	assistant
+sikh	supervisor
+sikh	restaurateur
+sikh	beaurocrat
+sikh	history
+sikh	dance
+sikh	delivery man
+sikh	athlete
+sikh	linguist
+sikh	art
+sikh	janitor
+sikh	police
+sikh	powerful
+sikh	photographer
+sikh	fancy
+sikh	salesperson
+sikh	brave
+sikh	cooking
+sikh	waiter
+sikh	home maker
+sikh	bread-winning
+sikh	rich
+sikh	courageous
+sikh	sheriff
+sikh	fashion designer
+sikh	army
+sikh	chief
+sikh	architect
+sikh	business
+sikh	composer
+sikh	aggressive
+sikh	soldier
+sikh	enterpreneur
+sikh	angry
+sikh	dancer
+sikh	politician
+sikh	politics
+sikh	construction worker
+sikh	educated
+sikh	strong
+sikh	golfer
+sikh	gardener
+hindu	realtor
+hindu	respected
+hindu	babysitter
+hindu	policeman
+hindu	fat
+hindu	educated
+hindu	fisherman
+hindu	history
+hindu	civil servant
+hindu	successful
+hindu	chemistry
+hindu	football player
+hindu	spicy
+hindu	supervisor
+hindu	cleaning
+hindu	mechanic
+hindu	academic
+hindu	wedding planner
+hindu	vegan
+hindu	firefighter
+hindu	auditor
+hindu	washerman
+hindu	electrician
+hindu	golfer
+hindu	analyst
+hindu	poet
+hindu	cooking
+hindu	fire fighter
+hindu	electronics
+hindu	music
+hindu	dancer
+hindu	artist
+hindu	guard
+hindu	architect
+hindu	secretary
+hindu	non-vegetarian
+hindu	smart
+hindu	singer
+hindu	home maker
+hindu	gardener
+hindu	handsome
+hindu	detective
+hindu	economist
+hindu	engineer
+hindu	politics
+hindu	software developer
+hindu	handyman
+hindu	caregiving
+hindu	poor
+hindu	police
+hindu	physicist
+hindu	art
+hindu	business
+hindu	law
+hindu	prosecuter
+hindu	real-estate developer
+hindu	science
+hindu	rich
+hindu	technology
+hindu	caring
+hindu	middle class
+hindu	director
+hindu	comedian
+hindu	commander
+hindu	broker
+hindu	teacher
+hindu	management
+hindu	flight attendant
+hindu	beautiful
+hindu	guitarist
+hindu	powerful
+hindu	receptionist
+hindu	army
+hindu	astronaut
+hindu	psychologist
+hindu	theologian
+hindu	judge
+hindu	interior designer
+hindu	clerk
+hindu	lawyer
+hindu	aggressive
+hindu	historian
+hindu	carpenter
+hindu	lifegaurd
+hindu	illustrator
+hindu	tennis player
+hindu	accountant
+hindu	musician
+hindu	beaurocrat
+hindu	cashier
+hindu	soldier
+hindu	ceo
+hindu	chess paler
+hindu	security gaurd
+hindu	baker
+hindu	goldsmith
+hindu	courageous
+hindu	journalist
+hindu	treasurer
+hindu	author
+hindu	film maker
+hindu	pensioner
+hindu	enterpreneur
+hindu	writer
+hindu	strong
+hindu	janitor
+hindu	salesperson
+hindu	physics
+hindu	cricketer
+hindu	politician
+hindu	performing artist
+hindu	finance
+hindu	producer
+hindu	chef
+hindu	counselor
+hindu	businessperson
+hindu	assistant
+hindu	brave
+hindu	minister
+hindu	diplomat
+hindu	pilot
+hindu	fancy
+hindu	editor
+hindu	calm
+hindu	attorney
+hindu	construction worker
+hindu	phamacist
+hindu	boxer
+hindu	bread-winning
+hindu	athlete
+hindu	fashion designer
+hindu	sociologist
+hindu	scientist
+hindu	painter
+hindu	model
+hindu	plumber
+hindu	humanities
+hindu	driver/chauffeur
+hindu	waiter
+hindu	travelling
+hindu	linguist
+hindu	manager
+hindu	emotional
+hindu	cleaner
+hindu	priest
+hindu	nurse
+hindu	actor
+hindu	maths
+hindu	protective
+hindu	composer
+hindu	shopping
+hindu	consultant
+hindu	farmer
+hindu	factory worker
+hindu	doctor
+hindu	dance
+hindu	pandit
+hindu	restaurateur
+hindu	professor
+hindu	thin
+hindu	dentist
+hindu	barber
+hindu	coach
+hindu	vegetarian

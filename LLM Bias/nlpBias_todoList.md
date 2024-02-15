@@ -22,6 +22,8 @@
 
 * assign stereotypical nature of an lm by calcualting how many common tuples are there with the human-annotaetd set of stereotypes. This would definitely change from model to model. 
 
+* to get this score, do take another mlm. 
+
 # End Goal
 
 Can you leverage this dataset to assess bias encoded into NLP models? Some

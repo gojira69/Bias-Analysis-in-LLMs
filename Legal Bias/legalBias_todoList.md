@@ -12,6 +12,8 @@
 
 * assign stereotypical nature of an llm by calcualting how many common tuples are there with the human-annotaetd set of stereotypes. This would definitely change from model to model. 
 
+* generate the stereotypical tuples from the llms and compare them with the human-annotated tuples from the research paper. 
+
 # End Goal
 * Your task is to analyze the prompts and true verdicts given and find patterns
     in the prompts and insights into how the prompts are distributed. Some initial
