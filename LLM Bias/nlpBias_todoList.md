@@ -20,6 +20,8 @@
 
 * Generate heat maps for religion and region ----> done with religion. started generating similarity scores for region.  ----> done with region
 
+* assign stereotypical nature of an lm by calcualting how many common tuples are there with the human-annotaetd set of stereotypes. This would definitely change from model to model. 
+
 # End Goal
 
 Can you leverage this dataset to assess bias encoded into NLP models? Some
