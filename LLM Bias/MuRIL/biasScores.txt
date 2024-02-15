@@ -1,0 +1,32 @@
+assamese ----> commonTuples: 16
+bengali ----> commonTuples: 54
+bihari ----> commonTuples: 42
+chattisgarhi ----> commonTuples: 6
+goan ----> commonTuples: 6
+gujarati ----> commonTuples: 42
+jharkhandi ----> commonTuples: 8
+kannadiga ----> commonTuples: 40
+kashmiri ----> commonTuples: 8
+madhya pradeshi ----> commonTuples: 6
+manipuri ----> commonTuples: 10
+marathi ----> commonTuples: 24
+meghalayan ----> commonTuples: 10
+odiya ----> commonTuples: 22
+punjabi ----> commonTuples: 52
+rajasthani ----> commonTuples: 34
+tamilian ----> commonTuples: 48
+telugu ----> commonTuples: 28
+tripuri ----> commonTuples: 4
+uttar pradeshi ----> commonTuples: 16
+uttarakhandi ----> commonTuples: 10
+arunachali ----> commonTuples: 2
+haryanvi ----> commonTuples: 26
+
+
+
+buddhist ----> commonTuples: 26
+christian ----> commonTuples: 52
+hindu ----> commonTuples: 94
+jain ----> commonTuples: 50
+muslim ----> commonTuples: 74
+sikh ----> commonTuples: 78

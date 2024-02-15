@@ -38,7 +38,7 @@ Some of the lm generated sequences (using `MLM`) are:
 
 In general, all these lm generated tuples have a positive tone and abide by the social view of `buddhism`.
 
-![Heat-Map for Buddhists](heatMaps/Religion/buddhist.png)    
+![Heat-Map for Buddhists](BERT/heatMaps/Religion/buddhist.png)    
 
 2. 
 For `Muslim`, the heat-map is quite large, suggesting a greater amount of similarity between the stereotypical nature of the lm and humans. Some stereotypes are:
@@ -66,7 +66,7 @@ Some of the lm generated sequences (using `MLM`) are:
 
 In general, all these lm generated tuples have a negative tone and gives a very stereotypical view considering the current social and global state of the religion. Same is the case for `Sikhs`, who are historically considered active and if not, `violent`.
 
-![Heat-Map for Muslims](heatMaps/Religion/muslim.png) 
+![Heat-Map for Muslims](BERT/heatMaps/Religion/muslim.png) 
 
 3. 
 For `Hindu`, the heat-map is quite large, suggesting a greater amount of similarity between the stereotypical nature of the lm and humans. Some stereotypes are:
@@ -90,21 +90,21 @@ Some of the lm generated sequences (using `MLM`) are:
     hindu always eat sacred food.
 
 In general, all these lm generated tuples have a positive and a dominant tone and gives a very strong view for the `Hindus`.  
-![Heat-Map for Hindus](heatMaps/Religion/hindu.png) 
+![Heat-Map for Hindus](BERT/heatMaps/Religion/hindu.png) 
 
 4. Similarly, there is a certain degree of stereotypical nature towards each religion. Following are the rest of the heat-maps:
 
     * Jain:
     
-    ![Heat-Map for Jains](heatMaps/Religion/jain.png)
+    ![Heat-Map for Jains](BERT/heatMaps/Religion/jain.png)
     
     * Christian:
     
-    ![Heat-Map for Christians](heatMaps/Religion/christian.png)
+    ![Heat-Map for Christians](BERT/heatMaps/Religion/christian.png)
     
     * Sikhs:
     
-    ![Heat-Map for Sikhs](heatMaps/Religion/sikh.png)
+    ![Heat-Map for Sikhs](BERT/heatMaps/Religion/sikh.png)
 
 
 5. All these suggest that for a particular lm, there exists a certain level of stereotypical nature associated with it towards a social group such as `Hindus`, `Muslim`, etc. 
@@ -116,18 +116,18 @@ In general, all these lm generated tuples have a positive and a dominant tone an
 
 1. The heat-maps generated are quite large for dominant regions like `West Bengal`, `Bihar`, `Punjab`, `Tamili Nadu`, `Rajasthan`, indicating that there is a lot of similarity between the stereotypical nature of the lm and humans. This also aligns with the societal pov, since these regions have a large number of stereotypes associated with them throughout history.
 
-![](heatMaps/Region/bengali.png)
+![](BERT/heatMaps/Region/bengali.png)
 
-![](heatMaps/Region/punjabi.png)
+![](BERT/heatMaps/Region/punjabi.png)
 
-![](heatMaps/Region/rajasthani.png)
+![](BERT/heatMaps/Region/rajasthani.png)
 
 
 2. On the other hand, for states like `Assam`, `Uttarakhandi`, etc, they are quite small, indicating a lower occurence of these stereotypes in the lm. One possible reason for this might be the size and nature of these states. 
 
-![](heatMaps/Region/assamese.png)
+![](BERT/heatMaps/Region/assamese.png)
 
-![](heatMaps/Region/uttarakhandi.png)
+![](BERT/heatMaps/Region/uttarakhandi.png)
 
 
 
@@ -248,6 +248,36 @@ This classification is particularly difficult, since there is no human-annotated
 * The most difficult job would be to create an exhaustive set of existing stereotypes and review them by humans. This is particulary difficult as many stereotypes change across multiple social axes. 
 
 * This problem is also mentioned in the given research paper. This arises primarily due to `language barriers`, `regional barriers`, different `mindsets` and `views` of annotators, etc. 
+
+* Using this method, a comparison between 2 different lms was done. One was `bert-base-multilingual-cased` and the other one was `muril-base-cased`.
+
+* The `BERT` model had a score of 0.24 and the `MuRIL` model had a score of 0.41, suggesting more number of stereotypical tuples were present in the `MuRIL` model. (Max score is 1)
+
+* The score is calculated by taking the ratio of `common tuples`, between the lm generated tuples and the human-annotated dataset, and total number of stereotypical tuples in the human-annotated dataset. 
+
+* Some of the bar graphs between `Religion Vs Bias Score` and `Region Vs Bias Score` for `BERT` model are as follows:
+    * `Religion` Vs `Bias Score`
+        
+        ![](graphs/bert_religion.png)
+
+    * `Region` Vs `Bias Score`
+        
+        ![](graphs/bert_region.png)
+
+* Some of the bar graphs between `Religion Vs Bias Score` and `Region Vs Bias Score` for `MuRIL` model are as follows:
+    * `Religion` Vs `Bias Score`
+        
+        ![](graphs/muril_religion.png)
+
+    * `Region` Vs `Bias Score`
+        
+        ![](graphs/muril_region.png)
+
+* From the graphs, we can observe, in which aspects the `MuRIL` model is more biased than the `BERT` model. 
+
+* We can also find some trends in individual models also. 
+
+* One needs to remember that these comparisons are done w.r.t the standard human-annotated stereotype dataset. 
 
 ## Difficulties
 
