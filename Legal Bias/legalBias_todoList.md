@@ -1,18 +1,14 @@
 * Need to extract the stereotypical tuples from the `nlp-fairness-for-india` datasets. ----> `Done`
 
-* Need to separate the individual/unique `instructions` from each llm model for analyzing different cases.  
+* Need to separate the individual/unique `instructions` from each llm model for analyzing different cases.   ---> done
 
-* need to find tuples in the instructions of each llm and check whether they occur in the stereotypical tuple sets. 
+* no need of models, since analysis of prompts and responses needs to be done ---> done
 
-* no need of models, since analysis of prompts and responses needs to be done
-
-* analysis is very dry for this
+* analysis is very dry for this ---> done
 
 * better to serach for the stereotypical nature in these responses
 
-* assign stereotypical nature of an llm by calcualting how many common tuples are there with the human-annotaetd set of stereotypes. This would definitely change from model to model. 
-
-* generate the stereotypical tuples from the llms and compare them with the human-annotated tuples from the research paper. 
+* plot graphs of incorrect predictions/conflicts ---> done
 
 # End Goal
 * Your task is to analyze the prompts and true verdicts given and find patterns
