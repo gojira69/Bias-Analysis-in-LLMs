@@ -1,6 +1,6 @@
 # PRECOG TASK
 
-* List of tasks ---> [here](RecruitmentTask.pdf)
+* List of tasks ---> [Task List](RecruitmentTask.pdf)
 
 * Chosen task ---> **`TASK 4`**
 
@@ -33,14 +33,14 @@
 
 ### CODE
 
-* For `prompt analysis` ---> [here](Legal%20Bias/legal_bias_prompt_analysis.ipynb)
+* For `prompt analysis` ---> [Prompt Analysis](Legal%20Bias/legal_bias_prompt_analysis.ipynb)
 
-* For `bias analysis` ---> [here](Legal%20Bias/legal_bias_analysis.ipynb)
+* For `bias analysis` ---> [Bias Analysis](Legal%20Bias/legal_bias_analysis.ipynb)
 
 ## TASK - 4 (d) [Paper reading task]
 
-* Research paper ---> [here](nlp_bias_paper.pdf)
+* Research paper ---> [Paper](nlp_bias_paper.pdf)
 
-* Slides (`pdf version`) ---> [here](Paper%20Reading%20Task.pdf)
+* Slides (`pdf version`) ---> [Slides](Paper%20Reading%20Task.pdf)
 
-* Link to `Google slides` ---> [here](https://docs.google.com/presentation/d/1nJOPKwG1B9Qh8GTwW6z7ld0skIzrF-odpxKH7iJU1QA/edit?usp=sharing)
+* Link to `Google slides` ---> [Link](https://docs.google.com/presentation/d/1nJOPKwG1B9Qh8GTwW6z7ld0skIzrF-odpxKH7iJU1QA/edit?usp=sharing)
