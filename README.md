@@ -6,6 +6,8 @@
 
 ## TASK - 4 (a) [Bias in NLP models]
 
+The code and the reports related to this task are in the [LLM Bias](LLM%20Bias) folder. 
+
 ### REPORT 
 
 * `Markdown` format ---> [REPORT](LLM%20Bias/NLP_BIAS_REPORT.md)
@@ -23,6 +25,8 @@
 * For `bias analysis` ---> [Bias_analysis](LLM%20Bias/nlp_bias_analysis.ipynb)
 
 ## TASK - 4 (b) and 4 (c) [Bias in Legal AI]
+
+The code and the reports related to this task are in the [Legal Bias](Legal%20Bias) folder. 
 
 ### REPORT
 
