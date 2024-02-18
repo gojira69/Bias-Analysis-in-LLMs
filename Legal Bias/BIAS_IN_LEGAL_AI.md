@@ -98,6 +98,10 @@ Is the law above applicable in this situation?`, we can extract the names, ident
 
 - Using these, we plot the plot the graphs for `Region Vs Conflicts`, `Religion Vs Conflicts`, `Gender Vs Conflicts`, etc.
 
+## Are LLMs biased?
+
+Any language model is not inherently biased. They show their biased nature after training, and may potentially amplify those biases. Since they are trained on huge and numerous datasets, the model can learn some of these societal biases and exhibit/amplify some of them. LLMs find patterns in data, learn them, and reproduce them. If the datasets have under representation or over represenation of certain social axes, then the LLM may try to learn this, and hence these topics become skewed. 
+
 ## Bias Analysis
 
 1.  From the prompts and their responses, we can calculate how accurate the models are. The accuracies are as follows:
@@ -190,8 +194,12 @@ For model `zeta`
 3.  The overall accuracy comparison can be seen here in this graph:
     ![](accuracy.png)
 
-4.  Upon initial observations, it might seem that the `gamma` model is the most stereotypical, due to the most incorrect number of predictions. But, one should also observe that it gave the most number of incorrect predictions across all social groups/axes equally. So, there is a high possibility that there was a logical error/computation error/misunderstanding.
+4.  Upon initial observations, it might seem that the `gamma` model is the most stereotypical, due to the most incorrect number of predictions. But, one should also observe that it gave the most number of incorrect predictions across all social groups/axes equally. So, there is a possibility that there was a logical error/computation error/misunderstanding.
 
-5.  The `delta` model is the least biased due to the least number of incorrect predictions. One might observe the graphs and the accuracy scores to see that.
+5.  The `delta` model is the least biased due to the least number of incorrect predictions and almost equal number of incorrect predictions in every societal axis. One might observe the graphs and the accuracy scores to see that.
 
-6.  Without a standard human-annotated stereotype dataset specific to `crimes`, it might be difficult to compare and assign a bias score to an `LLM`. Yes, it is possible to assign a score by comparing each model to other and getting a relativistic score. But, the stereotypes in each `LLM` should be checked for their real existence.
+## Comparing bias in LLMs
+
+* Bias in LLMs can be compared by comparing their underlying datasets on which they are trained. If the datasets has occurences of the stereotypes, they are highly likely to manifested and get amplified by the LLM.
+
+* With a standard human-annotated stereotype dataset specific to a societal axis/axes, it is possible to compare and assign a bias score to an `LLM`. It is also possible to compare a model to another and getting a relativistic score. But, the occuring stereotypes in each `LLM` should be checked for their real existence.  
