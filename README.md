@@ -44,3 +44,13 @@
 * Slides (`pdf version`) ---> [Slides](Paper%20Reading%20Task.pdf)
 
 * Link to `Google slides` ---> [Link](https://docs.google.com/presentation/d/1nJOPKwG1B9Qh8GTwW6z7ld0skIzrF-odpxKH7iJU1QA/edit?usp=sharing)
+
+## Resources
+
+* [`MuRIL from huggingface`](https://huggingface.co/google/muril-base-cased)
+
+* [`BERT from huggingface`](https://huggingface.co/google-bert/bert-base-multilingual-cased)
+
+* [`word2vec model`](https://stackoverflow.com/questions/21979970/how-to-use-word2vec-to-calculate-the-similarity-distance-by-giving-2-words)
+
+* [`NLP fairness for India datasets`](https://github.com/google-research-datasets/nlp-fairness-for-india)
